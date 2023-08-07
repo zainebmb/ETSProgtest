@@ -5,7 +5,7 @@ This Data is then analyzed to derive meaningful insights.
 
 
 # Usage 
-To use this Github Notebook Extractor, first, Clone this repo
+To use this Github Issues Extractor, first, Clone this repo
 
 * To extract the data run 
 
